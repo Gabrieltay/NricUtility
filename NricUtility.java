@@ -1,8 +1,6 @@
-package dev.gabriel;
-
 import java.util.Calendar;
 
-public class Main {
+public class NricUtility {
 
     private static final char[] NRIC_LAST_ALPHABETS = new char[] {'J','Z','I','H','G','F','E','D','C','B','A'};
     private static final char[] FIN_LAST_ALPHABETS = new char[] {'X','W','U','T','R','Q','P','N','M','L','K'};
