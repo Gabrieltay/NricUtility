@@ -42,7 +42,6 @@ public class Main {
         return nricFin.charAt(8) == determineAlphabet(nricFin);
     }
 
-
     private static String generate(int year, boolean isResidence) {
         char[] nricCharArray = new char[9];
 
